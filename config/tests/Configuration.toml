@@ -1,0 +1,10 @@
+[communications.first_group.telegram]
+enabled = true
+token = "token"
+chat_id = "chat_id"
+
+[communications.first_group.telegram.notification]
+enabled = true
+
+[communications.first_group.telegram.bindings]
+sources = ["test"]
